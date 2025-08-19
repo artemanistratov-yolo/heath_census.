@@ -1,0 +1,56 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "imagesrc":"https://thesurgicalclinics.com/wp-content/uploads/2022/08/thyroid-surgery-in-tennessee.jpg",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain or loss",
+          "Dry skin",
+          "Muscle weakness",
+          "Irregular menstrual periods"
+        ],
+        "prevention": [
+          "Eat a balanced diet",
+          "Exercise regularly",
+          "Get regular check-ups"
+        ],
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc":"https://vediherbals.com/cdn/shop/articles/How_Does_Diabetes_Affect_the_Body_e1a25462-ab2e-4047-be68-b70bdf46300f.jpg?v=1739776973",
+        "symptoms": [
+          "Frequent urination",
+          "Increased thirst",
+          "Blurry vision",
+          "Fatigue",
+          "Slow healing of cuts or sores"
+        ],
+        "prevention": [
+          "Maintain a healthy weight",
+          "Follow a balanced diet",
+          "Regular exercise"
+        ],
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc":"https://www.texasheart.org/wp-content/uploads/2023/03/Blood-Pressure-Chart.jpg",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      }
+    ]
+  }
+  
